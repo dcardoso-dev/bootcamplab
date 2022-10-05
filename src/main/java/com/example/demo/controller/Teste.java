@@ -10,7 +10,7 @@ public class Teste {
 
     @GetMapping
     public String teste() {
-        return "Testado!";
+        return "Testado de novo!";
     }
 
 }
